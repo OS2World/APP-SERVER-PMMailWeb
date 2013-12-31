@@ -1,0 +1,29 @@
+                          Upload Information Template for Hobbes.nmsu.edu
+                          ===============================================
+
+        Archive Filename: PMMAILWEB10A2.ZIP
+       Short Description: PMMailWEB is a cgi web frontend for the Email software PMMail. 
+        Long Description: PMMailWEB is a cgi web frontend for the Email software PMMail.
+                          With PMMailWEB can you see, read all Emails from PMMail with your Webbrowser. 
+
+      Proposed directory
+           for placement: /pub/os2/apps/internet/mail/reader
+
+               Your name: Peter Lueersen 
+           Email address: Peter@warp-ecs-owl.de
+    Program contact name: (same)
+   Program contact email: (same)
+             Program URL: www.warp-ecs-owl.de
+                          www.warp-ecs-owl.de/Peter_PMMAILWEB.html   
+
+      Would you like the
+   contact email address
+    included in listings? yes
+
+Operating System/Version: eComstation, OS/2 Warp 4 (FP13), OS/2 Warp Server for eBusiness
+ Additional requirements: OS/2 Webserver: Apache, WEB/2  PMMail for OS/2
+
+                Replaces: PMMAILWEB10A1.ZIP
+
+
+

@@ -1,0 +1,26 @@
+***************************************************************************************
+*                          PMMAILWEB   (c) Peter LÅersen                              *
+*           Email address: Peter@warp-ecs-owl.de                                      *
+*             Program URL: www.warp-ecs-owl.de                                        *
+*                          www.warp-ecs-owl.de/Peter_PMMailWEB.html                   *
+*                                                                                     *
+***************************************************************************************
+
+Change History 
+
+
+Version 1.00A1: 
+	Initial Release  
+
+Version 1.00A2: 
+	Add     : @ for new Mails 
+        Add     : Show only Mails from today
+        Add     : LOGOFF
+        Add     : LOGIN ID
+        Add     : Loding ... ... Please wait
+        New     : Help in a Window
+        Add     : Support for WEB/2
+        Remove  : ExtraRexx.dll
+
+Version 1.00A2a:
+	Error   : On free_access_for_ip=xxx.yyy.zzz. and free_access_for_ip =. fixed.
